@@ -1,6 +1,7 @@
 .venv/
 other/
 data/raw/enaho/
+data/raw/enaho.zip
 .Rhistory
 .Rapp.history
 .RData
