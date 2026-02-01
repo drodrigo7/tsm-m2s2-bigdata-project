@@ -1,0 +1,56 @@
+---
+title: "BigDataProject"
+format: html
+editor: visual
+---
+
+# Big Data Project
+
+## Table of Contents
+
+## Introduction
+
+This text is to be replaced by the actual introduction text.
+
+## Methodology
+
+This text is to be replaced by the actual introduction text. We are going to use KNN for the classification problem, include simple example/description.
+
+Briefly description of the steps we will make: 1. Presentation of the data. 2. Data processing. 3. Model validation/testing.
+
+```{r}
+library(ggplot2)
+```
+
+## Results
+
+Text with the results.
+
+## Conclusions
+
+Text with the conclusions.
+
+## Annex
+
+This section will contain whatever we consider should be here.
+
+### Scripts
+
+Text with the full scripts. We will also send the scripts (R script file).
+
+### Something else we can add
+
+When you click the **Render** button a document will be generated that includes both content and the output of embedded code. You can embed code like this:
+
+```{r}
+1 + 1
+```
+
+You can add options to executable code like this
+
+```{r}
+#| echo: false
+2 * 2
+```
+
+The `echo: false` option disables the printing of code (only output is displayed).
